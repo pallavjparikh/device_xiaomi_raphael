@@ -6,8 +6,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_raphael.mk
+    $(LOCAL_DIR)/bootleg_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_raphael-userdebug \
-    revengeos_raphael-eng
+    bootleg_raphael-userdebug \
+    bootleg_raphael-eng
